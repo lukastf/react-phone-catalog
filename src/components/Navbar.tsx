@@ -1,6 +1,9 @@
 import { NavLink } from "react-router-dom";
 import logoMobile from "../assets/logo-desktop.svg";
 import logoDesktop from "../assets/logo-mobile.svg";
+import menuHamburguerMobile from "../assets/menu-hamburguer-mobile.svg";
+import likeImg from "../assets/like.svg";
+import cartImg from "../assets/cart.svg";
 
 const Navbar = () => {
   // Define classes base comuns para todos os links
@@ -41,8 +44,8 @@ const Navbar = () => {
           </a>
           <div className="relative px-4 flex items-center border-l-[#E2E6E9] border-l md:hidden">
             <button
-              className="block w-4 h-4 bg-center bg-no-repeat cursor-pointer 
-            bg-[url(./assets/menu-hamburguer-mobile.svg)]"
+              className={`block w-4 h-4 bg-center bg-no-repeat cursor-pointer 
+            bg-[url(${menuHamburguerMobile})]`}
             ></button>
           </div>
         </div>
@@ -88,51 +91,42 @@ const Navbar = () => {
               </NavLink>
             </li>
           </ul>
-          <ul className="flex"></ul>
+          <ul className="flex">
+            <li
+              className="flex items-center justify-center relative w-[50%] md:w-12 
+            lg:w-16 border-l-[#E2E6E9] border-l"
+            >
+              <NavLink
+                aria-current="page"
+                to="/favorites"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClasses} text-[#313237] after:w-full`
+                    : `${baseClasses} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                <img src={likeImg} alt="like" />
+              </NavLink>
+            </li>
+            <li
+              className="flex items-center justify-center relative w-[50%] md:w-12 
+            lg:w-16 border-l-[#E2E6E9] border-l"
+            >
+              <NavLink
+                aria-current="page"
+                to="/cart"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClasses} text-[#313237] after:w-full`
+                    : `${baseClasses} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                <img src={cartImg} alt="like" />
+              </NavLink>
+            </li>
+          </ul>
         </nav>
       </header>
-      {/*
-      <nav className="bg-gray-800 p-4">
-        <ul className="flex space-x-4">
-          <li>
-            <NavLink
-              to="/"
-              className={
-                ({ isActive }) =>
-                  isActive
-                    ? `${baseClasses} bg-gray-900 text-white` // Classes se ativo (ex: fundo escuro)
-                    : `${baseClasses} text-gray-300 hover:bg-gray-700 hover:text-white` // Classes se inativo
-              }
-            >
-              Home
-            </NavLink>
-          </li>
-          <li>
-            <NavLink
-              to="/about"
-              className={({ isActive }) =>
-                isActive
-                  ? `${baseClasses} bg-gray-900 text-white`
-                  : `${baseClasses} text-gray-300 hover:bg-gray-700 hover:text-white`
-              }
-            >
-              Sobre
-            </NavLink>
-          </li>
-          <li>
-            <NavLink
-              to="/contact"
-              className={({ isActive }) =>
-                isActive
-                  ? `${baseClasses} bg-gray-900 text-white`
-                  : `${baseClasses} text-gray-300 hover:bg-gray-700 hover:text-white`
-              }
-            >
-              Contato
-            </NavLink>
-          </li>
-        </ul>
-      </nav>*/}
     </>
   );
 };
