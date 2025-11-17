@@ -1,13 +1,14 @@
 import { NavLink } from "react-router-dom";
 import logoMobile from "../assets/logo-desktop.svg";
 import logoDesktop from "../assets/logo-mobile.svg";
-import menuHamburguerMobile from "../assets/menu-hamburguer-mobile.svg";
+//import menuHamburguerMobile from "../assets/menu-hamburguer-mobile.svg";
 import likeImg from "../assets/like.svg";
 import cartImg from "../assets/cart.svg";
+import { useState } from "react";
 
 const Navbar = () => {
   // Define classes base comuns para todos os links
-  const baseClasses = `uppercase 
+  const baseClassesMenu = `uppercase 
     text-xs 
     font-extrabold 
     leading-[22px] 
@@ -29,6 +30,20 @@ const Navbar = () => {
     after:transition-all 
     after:duration-300"`;
 
+  const icon = "block w-4 h-4 bg-center bg-no-repeat cursor-pointer";
+
+  const [showHideMenuMobileState, setShowHideMenuMobileState] = useState(
+    "left-full invisible opacity-0"
+  );
+
+  const showMenuMobile = () => {
+    setShowHideMenuMobileState("left-0 opacity-100 visible");
+  };
+
+  const hideMenuMobile = () => {
+    setShowHideMenuMobileState("left-full invisible opacity-0");
+  };
+
   return (
     <>
       <header className="fixed z-100 top-0 right-0 left-0 flex gap-4 xl:gap-6 justify-between bg-white">
@@ -36,16 +51,16 @@ const Navbar = () => {
           className="flex grow gap-4 justify-between h-12 relative md:grow-0 lg:h-16 after:content-[''] 
           after:block after:h-px after:w-screen after:bg-[#e2e6e9] after:absolute after:bottom-0"
         >
-          <a href="#" className="flex px-4 lg:px-6">
+          <NavLink aria-current="page" to="/" className="flex px-4 lg:px-6">
             <picture className="flex items-center">
               <img src={logoMobile} alt="logo" className="block lg:hidden" />
               <img src={logoDesktop} alt="logo" className="hidden lg:block" />
             </picture>
-          </a>
+          </NavLink>
           <div className="relative px-4 flex items-center border-l-[#E2E6E9] border-l md:hidden">
             <button
-              className={`block w-4 h-4 bg-center bg-no-repeat cursor-pointer 
-            bg-[url(${menuHamburguerMobile})]`}
+              onClick={() => showMenuMobile()}
+              className={`${icon} bg-[url(/src/assets/menu-hamburguer-mobile.svg)]`}
             ></button>
           </div>
         </div>
@@ -57,8 +72,8 @@ const Navbar = () => {
                 to="/"
                 className={({ isActive }) =>
                   isActive
-                    ? `${baseClasses} text-[#313237] after:w-full`
-                    : `${baseClasses} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
                 Home
@@ -67,27 +82,40 @@ const Navbar = () => {
             <li className="flex items-center justify-center">
               <NavLink
                 aria-current="page"
-                to="/about"
+                to="/phones"
                 className={({ isActive }) =>
                   isActive
-                    ? `${baseClasses} text-[#313237] after:w-full`
-                    : `${baseClasses} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
-                About
+                Phones
               </NavLink>
             </li>
             <li className="flex items-center justify-center">
               <NavLink
                 aria-current="page"
-                to="/contact"
+                to="/tablets"
                 className={({ isActive }) =>
                   isActive
-                    ? `${baseClasses} text-[#313237] after:w-full`
-                    : `${baseClasses} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
-                Contact
+                Tablets
+              </NavLink>
+            </li>
+            <li className="flex items-center justify-center">
+              <NavLink
+                aria-current="page"
+                to="/accessories"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                Accessories
               </NavLink>
             </li>
           </ul>
@@ -101,8 +129,8 @@ const Navbar = () => {
                 to="/favorites"
                 className={({ isActive }) =>
                   isActive
-                    ? `${baseClasses} text-[#313237] after:w-full`
-                    : `${baseClasses} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
                 <img src={likeImg} alt="like" />
@@ -117,16 +145,124 @@ const Navbar = () => {
                 to="/cart"
                 className={({ isActive }) =>
                   isActive
-                    ? `${baseClasses} text-[#313237] after:w-full`
-                    : `${baseClasses} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
-                <img src={cartImg} alt="like" />
+                <img src={cartImg} alt="cart" />
               </NavLink>
             </li>
           </ul>
         </nav>
       </header>
+      <aside
+        className={`fixed z-100 top-0 bottom-0 box-border w-full 
+        bg-white h-screen overflow-auto font-bold 
+        uppercase transition-all duration-300
+        ${showHideMenuMobileState} md:hidden`}
+      >
+        <div
+          className="flex grow gap-4 justify-between h-12 relative md:grow-0 lg:h-16
+        after:content-[''] after:block after:h-px after:w-screen after:bg-[#e2e6e9] after:absolute after:bottom-0"
+        >
+          <NavLink aria-current="page" to="/" className="flex px-4 lg:px-6">
+            <picture className="flex items-center">
+              <img src={logoMobile} alt="logo" className="block lg:hidden" />
+              <img src={logoDesktop} alt="logo" className="hidden lg:block" />
+            </picture>
+          </NavLink>
+          <div className="relative px-4 flex items-center border-l border-[#E2E6E9] md:hidden">
+            <button
+              onClick={() => hideMenuMobile()}
+              className={`${icon} bg-[url(/src/assets/close.svg)]`}
+            ></button>
+          </div>
+        </div>
+        <nav className="grow">
+          <ul className="mt-6 list-none flex flex-col gap-4 md:flex-row md:mt-0 md:gap-8">
+            <li className="flex items-center justify-center">
+              <NavLink
+                aria-current="page"
+                to="/"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                Home
+              </NavLink>
+            </li>
+            <li className="flex items-center justify-center">
+              <NavLink
+                aria-current="page"
+                to="/phones"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                Phones
+              </NavLink>
+            </li>
+            <li className="flex items-center justify-center">
+              <NavLink
+                aria-current="page"
+                to="/tablets"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                Tablets
+              </NavLink>
+            </li>
+            <li className="flex items-center justify-center">
+              <NavLink
+                aria-current="page"
+                to="/accessories"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                Accessories
+              </NavLink>
+            </li>
+          </ul>
+          <ul className="flex fixed bottom-0 right-0 left-0 h-[68px] border-t border-[#E2E6E9]">
+            <li className="flex items-center justify-center relative w-1/2 border-l border-[#E2E6E9] md:w-12 lg:w-16">
+              <NavLink
+                aria-current="page"
+                to="/favorites"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                <img src={likeImg} alt="like" className="mt-6" />
+              </NavLink>
+            </li>
+            <li className="flex items-center justify-center relative w-1/2 border-l border-[#E2E6E9] md:w-12 lg:w-16">
+              <NavLink
+                aria-current="page"
+                to="/cart"
+                className={({ isActive }) =>
+                  isActive
+                    ? `${baseClassesMenu} text-[#313237] after:w-full`
+                    : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
+                }
+              >
+                <img src={cartImg} alt="cart" className="mt-6" />
+              </NavLink>
+            </li>
+          </ul>
+        </nav>
+      </aside>
     </>
   );
 };

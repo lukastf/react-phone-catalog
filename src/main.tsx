@@ -3,8 +3,11 @@ import ReactDOM from "react-dom/client";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App";
 import Home from "./pages/Home";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
+import Phones from "./pages/Phones";
+import Tablets from "./pages/Tablets";
+import Accessories from "./pages/Accessories";
+import Favorites from "./pages/Favorites";
+import Cart from "./pages/Cart";
 import "./index.css"; // Seu arquivo CSS principal do Tailwind
 
 const router = createBrowserRouter([
@@ -13,8 +16,11 @@ const router = createBrowserRouter([
     element: <App />,
     children: [
       { index: true, element: <Home /> },
-      { path: "about", element: <About /> },
-      { path: "contact", element: <Contact /> },
+      { path: "phones", element: <Phones /> },
+      { path: "tablets", element: <Tablets /> },
+      { path: "accessories", element: <Accessories /> },
+      { path: "favorites", element: <Favorites /> },
+      { path: "cart", element: <Cart /> },
     ],
   },
 ]);
