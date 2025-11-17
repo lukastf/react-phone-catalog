@@ -4,9 +4,9 @@ import carouselImg1 from "../assets/carousel/img1.jpg";
 import carouselImg2 from "../assets/carousel/img2.jpg";
 import carouselImg3 from "../assets/carousel/img3.jpg";
 import Card from "../components/Card";
-import phone1 from "../assets/phones/iphone_7_black.webp";
-import phone2 from "../assets/phones/iphone_8_gold.webp";
-import phone3 from "../assets/phones/iphone_11_black.webp";
+//import phone1 from "../assets/phones/iphone_7_black.webp";
+//import phone2 from "../assets/phones/iphone_8_gold.webp";
+//import phone3 from "../assets/phones/iphone_11_black.webp";
 import homeNewPhones from "../apis/homeNewPhones.json";
 
 function Home() {
