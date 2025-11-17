@@ -1,20 +1,26 @@
 [
   {
     "imgSrc": "src/assets/phones/iphone_7_black.webp",
-    "imgDescription": "Descricao",
-    "title": "gluber",
-    "description": "firula"
+    "imgDescription": "iphone_7_black",
+    "title": "Apple iPhone 7 32GB Black",
+    "description": "$ 375"
+  },
+  {
+    "imgSrc": "src/assets/phones/iphone_7_black.webp",
+    "imgDescription": "iphone_7_black",
+    "title": "Apple iPhone 7 Plus 32GB Black",
+    "description": "$ 500"
   },
   {
     "imgSrc": "src/assets/phones/iphone_8_gold.webp",
-    "imgDescription": "Penis",
-    "title": "hhh",
-    "description": "pppppp"
+    "imgDescription": "iphone_8_gold",
+    "title": "Apple iPhone 8 64GB Gold",
+    "description": "$ 550"
   },
   {
     "imgSrc": "src/assets/phones/iphone_11_black.webp",
-    "imgDescription": "Antetegmon",
-    "title": "kkkkkkk",
-    "description": "ooooo"
+    "imgDescription": "iphone_11_black",
+    "title": "Apple iPhone 11 64GB Black",
+    "description": "$  880"
   }
 ]
