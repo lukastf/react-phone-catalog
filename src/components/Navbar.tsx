@@ -5,6 +5,8 @@ import logoDesktop from "../assets/logo-mobile.svg";
 import likeImg from "../assets/like.svg";
 import cartImg from "../assets/cart.svg";
 import { useState } from "react";
+import { useCart } from "../contexts/UseCart";
+import { useFavorites } from "../contexts/UseFavorites";
 
 const Navbar = () => {
   // Define classes base comuns para todos os links
@@ -43,6 +45,12 @@ const Navbar = () => {
   const hideMenuMobile = () => {
     setShowHideMenuMobileState("left-full invisible opacity-0");
   };
+
+  const { cart } = useCart();
+  const cartCount = cart?.length ?? 0;
+
+  const { favorites } = useFavorites();
+  const favoritesCount = favorites?.length ?? 0;
 
   return (
     <>
@@ -133,7 +141,14 @@ const Navbar = () => {
                     : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
-                <img src={likeImg} alt="like" />
+                <div className="relative">
+                  <img src={likeImg} alt="like" />
+                  {favoritesCount > 0 && (
+                    <span className="absolute -top-2 -right-3 bg-red-600 text-white text-xs font-bold rounded-full w-4 h-4 flex items-center justify-center">
+                      {favoritesCount}
+                    </span>
+                  )}
+                </div>
               </NavLink>
             </li>
             <li
@@ -149,7 +164,14 @@ const Navbar = () => {
                     : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
-                <img src={cartImg} alt="cart" />
+                <div className="relative">
+                  <img src={cartImg} alt="cart" />
+                  {cartCount > 0 && (
+                    <span className="absolute -top-2 -right-3 bg-red-600 text-white text-xs font-bold rounded-full w-4 h-4 flex items-center justify-center">
+                      {cartCount}
+                    </span>
+                  )}
+                </div>
               </NavLink>
             </li>
           </ul>
@@ -244,7 +266,14 @@ const Navbar = () => {
                     : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
-                <img src={likeImg} alt="like" className="mt-6" />
+                <div className="relative">
+                  <img src={likeImg} alt="like" className="mt-6" />
+                  {favoritesCount > 0 && (
+                    <span className="absolute -top-2 -right-3 bg-red-600 text-white text-xs font-bold rounded-full w-4 h-4 flex items-center justify-center">
+                      {favoritesCount}
+                    </span>
+                  )}
+                </div>
               </NavLink>
             </li>
             <li className="flex items-center justify-center relative w-1/2 border-l border-[#E2E6E9] md:w-12 lg:w-16">
@@ -257,7 +286,14 @@ const Navbar = () => {
                     : `${baseClassesMenu} text-[#89939a] hover:text-[#313237] after:w-0 hover:after:w-full`
                 }
               >
-                <img src={cartImg} alt="cart" className="mt-6" />
+                <div className="relative">
+                  <img src={cartImg} alt="cart" className="mt-6" />
+                  {cartCount > 0 && (
+                    <span className="absolute -top-1 -right-4 bg-red-600 text-white text-xs font-bold rounded-full w-5 h-5 flex items-center justify-center">
+                      {cartCount}
+                    </span>
+                  )}
+                </div>
               </NavLink>
             </li>
           </ul>

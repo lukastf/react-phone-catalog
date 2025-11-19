@@ -1,4 +1,4 @@
-import type { CartItemType, ProductType } from "../interfaces/carrinho";
+import type { CartItemType, ProductType } from "./carrinho";
 
 export interface CartContextType {
   cart: CartItemType[];

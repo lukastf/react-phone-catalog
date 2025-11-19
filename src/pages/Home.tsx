@@ -15,7 +15,7 @@ function Home() {
 
   //mb-14 columns-4 grid grid-cols-24 gap-x-5 md:gap-x-6 md:mb-16 md:columns-12 lg:mb-22 lg:columns-24 relative
 
-  const dadosArray = homeNewPhones;
+  //const dadosArray = homeNewPhones;
 
   return (
     <>
@@ -31,17 +31,9 @@ function Home() {
       <section className="">
         <h2 className="font-semibold text-2xl mb-7">Brand new models</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-          {dadosArray.map((card) => {
-            return (
-              <Card
-                imgSrc={card.imgSrc}
-                imgDescription={card.imgDescription}
-                title={card.title}
-                description={card.description}
-              />
-            );
+          {homeNewPhones.map((card) => {
+            return <Card key={card.id} {...card} />;
           })}
-          ;
         </div>
       </section>
     </>

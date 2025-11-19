@@ -1,26 +1,50 @@
 [
   {
+    "id": 1,
+    "name": "Apple iPhone 7 32GB Black",
+    "price": 375,
+
     "imgSrc": "src/assets/phones/iphone_7_black.webp",
     "imgDescription": "iphone_7_black",
-    "title": "Apple iPhone 7 32GB Black",
-    "description": "$ 375"
+    "description": "A transformative triple-camera system that adds tons of capability without complexity.An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro.Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone.Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it.iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to lay with.",
+    "screen": "4.7' IPS",
+    "capacity": "32GB",
+    "ram": "2GB"
   },
   {
+    "id": 2,
+    "name": "Apple iPhone 7 Plus 32GB Black",
+    "price": 375,
+
     "imgSrc": "src/assets/phones/iphone_7_black.webp",
     "imgDescription": "iphone_7_black",
-    "title": "Apple iPhone 7 Plus 32GB Black",
-    "description": "$ 500"
+    "description": "A transformative triple-camera system that adds tons of capability without complexity.An unprecedented leap in battery life. And a mind-blowing chip that doubles down on machine learning and pushes the boundaries of what a smartphone can do. Welcome to the first iPhone powerful enough to be called Pro.Meet the first triple-camera system to combine cutting-edge technology with the legendary simplicity of iPhone.Capture up to four times more scene. Get beautiful images in drastically lower light. Shoot the highest-quality video in a smartphone — then edit with the same tools you love for photos. You’ve never shot with anything like it.iPhone 11 Pro lets you capture videos that are beautifully true to life, with greater detail and smoother motion. Epic processing power means it can shoot 4K video with extended dynamic range and cinematic video stabilization — all at 60 fps. You get more creative control, too, with four times more scene and powerful new editing tools to lay with.",
+    "screen": "5.5' IPS",
+    "capacity": "32GB",
+    "ram": "3GB"
   },
   {
+    "id": 3,
+    "name": "Apple iPhone 8 64GB Gold",
+    "price": 550,
+
     "imgSrc": "src/assets/phones/iphone_8_gold.webp",
     "imgDescription": "iphone_8_gold",
-    "title": "Apple iPhone 8 64GB Gold",
-    "description": "$ 550"
+    "description": "lorem skjajksdjk dsajbdjksajkd sdajksajdksajksda asjsajdjsadk sdjajkadsjk",
+    "screen": "4.7' IPS",
+    "capacity": "64GB",
+    "ram": "2GB"
   },
   {
+    "id": 4,
+    "name": "Apple iPhone 11 64GB Black",
+    "price": 880,
+
     "imgSrc": "src/assets/phones/iphone_11_black.webp",
     "imgDescription": "iphone_11_black",
-    "title": "Apple iPhone 11 64GB Black",
-    "description": "$  880"
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "64GB",
+    "ram": "4GB"
   }
 ]
