@@ -54,7 +54,7 @@ const Card = ({
       </div>
 
       <div className="px-6 py-4">
-        <p className="text-gray-700 text-base mb-2">Screen {screen}</p>
+        <p className="text-gray-700 text-base">Screen {screen}</p>
         <p className="text-gray-700 text-base">Capacity {capacity}</p>
         <p className="text-gray-700 text-base">Ram {ram}</p>
       </div>

@@ -206,6 +206,7 @@ const Navbar = () => {
               <NavLink
                 aria-current="page"
                 to="/"
+                onClick={() => hideMenuMobile()}
                 className={({ isActive }) =>
                   isActive
                     ? `${baseClassesMenu} text-[#313237] after:w-full`
@@ -219,6 +220,7 @@ const Navbar = () => {
               <NavLink
                 aria-current="page"
                 to="/phones"
+                onClick={() => hideMenuMobile()}
                 className={({ isActive }) =>
                   isActive
                     ? `${baseClassesMenu} text-[#313237] after:w-full`
@@ -232,6 +234,7 @@ const Navbar = () => {
               <NavLink
                 aria-current="page"
                 to="/tablets"
+                onClick={() => hideMenuMobile()}
                 className={({ isActive }) =>
                   isActive
                     ? `${baseClassesMenu} text-[#313237] after:w-full`
@@ -245,6 +248,7 @@ const Navbar = () => {
               <NavLink
                 aria-current="page"
                 to="/accessories"
+                onClick={() => hideMenuMobile()}
                 className={({ isActive }) =>
                   isActive
                     ? `${baseClassesMenu} text-[#313237] after:w-full`
@@ -260,6 +264,7 @@ const Navbar = () => {
               <NavLink
                 aria-current="page"
                 to="/favorites"
+                onClick={() => hideMenuMobile()}
                 className={({ isActive }) =>
                   isActive
                     ? `${baseClassesMenu} text-[#313237] after:w-full`
@@ -280,6 +285,7 @@ const Navbar = () => {
               <NavLink
                 aria-current="page"
                 to="/cart"
+                onClick={() => hideMenuMobile()}
                 className={({ isActive }) =>
                   isActive
                     ? `${baseClassesMenu} text-[#313237] after:w-full`
