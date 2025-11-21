@@ -9,9 +9,9 @@ const CartSummary: React.FC = () => {
 
   return (
     <div className="p-6 bg-gray-50 rounded-lg shadow-lg">
-      <h2 className="text-2xl font-bold mb-4">Seu Carrinho de Compras</h2>
+      <h2 className="text-2xl font-bold mb-4">Your Shopping Cart</h2>
       {cart.length === 0 ? (
-        <p>Seu carrinho está vazio.</p>
+        <p>Your cart is empty.</p>
       ) : (
         <>
           <ul className="mb-4">
@@ -25,7 +25,7 @@ const CartSummary: React.FC = () => {
                   <button
                     onClick={() => addToCart(item)}
                     className="text-blue-500 hover:text-blue-700 text-sm px-4 py-2 border border-black cursor-pointer"
-                    title="Remover item"
+                    title="Add item"
                   >
                     +
                   </button>
@@ -33,7 +33,7 @@ const CartSummary: React.FC = () => {
                   <button
                     onClick={() => subtractFromCart(item)}
                     className="text-blue-500 hover:text-blue-700 text-sm px-4 py-2 border border-black cursor-pointer"
-                    title="Remover item"
+                    title="Subtract item"
                   >
                     -
                   </button>
@@ -45,9 +45,9 @@ const CartSummary: React.FC = () => {
                   <button
                     onClick={() => removeFromCart(item.id)}
                     className="text-red-500 hover:text-red-700 text-sm"
-                    title="Remover item"
+                    title="Remove item"
                   >
-                    Remover
+                    Remove
                   </button>
                 </div>
               </li>
@@ -67,7 +67,7 @@ function Cart() {
     // Toda a aplicação precisa estar dentro do Provedor
 
     <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-6">Loja Online</h1>
+      <h1 className="text-3xl font-bold mb-6">Online Store</h1>
 
       {/*<div className="grid grid-cols-1 lg:grid-cols-3 gap-6">*/}
       <div className="flex justify-center gap-4">
