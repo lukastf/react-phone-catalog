@@ -6,11 +6,14 @@ import { useCart } from "../contexts/UseCart";
 import { useFavorites } from "../contexts/UseFavorites";
 import type { ProductFavoriteType } from "../interfaces/favorites";
 import likeImg from "../assets/like.svg";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 function Phone() {
   const { cart, addToCart, removeFromCart } = useCart();
   const { favorites, addToFavorites, removeFromFavorites } = useFavorites();
+  const [imgClicked, setImgClicked] = useState(0);
+  const classImg = `p-5 w-40 h-40 object-contain hover:border border-black cursor-pointer`;
+  const classImgBig = `my-4 p-10 w-150 h-200 object-contain`;
 
   const { id } = useParams();
   const productId = Number(id);
@@ -30,6 +33,51 @@ function Phone() {
     (item: ProductFavoriteType) => item.id === productId
   );
 
+  const imgRender = () => {
+    switch (imgClicked) {
+      case 0:
+        return (
+          <img
+            src={product.imgSrc}
+            alt={product.imgDescription}
+            className={classImgBig}
+          />
+        );
+      case 1:
+        return (
+          <img
+            src={product.imgSrc2}
+            alt={product.imgDescription}
+            className={classImgBig}
+          />
+        );
+      case 2:
+        return (
+          <img
+            src={product.imgSrc3}
+            alt={product.imgDescription}
+            className={classImgBig}
+          />
+        );
+      case 3:
+        return (
+          <img
+            src={product.imgSrc4}
+            alt={product.imgDescription}
+            className={classImgBig}
+          />
+        );
+      case 4:
+        return (
+          <img
+            src={product.imgSrc5}
+            alt={product.imgDescription}
+            className={classImgBig}
+          />
+        );
+    }
+  };
+
   return (
     <div className="p-6">
       <button
@@ -40,11 +88,53 @@ function Phone() {
       </button>
       <div className="flex justify-center items-center flex-col">
         <h1 className="text-2xl font-bold">{product.name}</h1>
-        <img
-          src={product.imgSrc}
-          alt={product.imgDescription}
-          className="my-4 max-w-xs"
-        />
+        <div className="flex">
+          <div className="flex flex-col p-10">
+            <img
+              onClick={() => setImgClicked(0)}
+              className={
+                imgClicked === 0 ? `${classImg} border` : `${classImg}`
+              }
+              src={product.imgSrc}
+              alt={product.imgDescription}
+            />
+
+            <img
+              onClick={() => setImgClicked(1)}
+              className={
+                imgClicked === 1 ? `${classImg} border` : `${classImg}`
+              }
+              src={product.imgSrc2}
+              alt={product.imgDescription}
+            />
+
+            <img
+              onClick={() => setImgClicked(2)}
+              className={
+                imgClicked === 2 ? `${classImg} border` : `${classImg}`
+              }
+              src={product.imgSrc3}
+              alt={product.imgDescription}
+            />
+            <img
+              onClick={() => setImgClicked(3)}
+              className={
+                imgClicked === 3 ? `${classImg} border` : `${classImg}`
+              }
+              src={product.imgSrc4}
+              alt={product.imgDescription}
+            />
+            <img
+              onClick={() => setImgClicked(4)}
+              className={
+                imgClicked === 4 ? `${classImg} border` : `${classImg}`
+              }
+              src={product.imgSrc5}
+              alt={product.imgDescription}
+            />
+          </div>
+          {imgRender()}
+        </div>
         <div className="flex">
           <p className="w-1/2 text-center">{product.description}</p>
           <div className="w-1/2 text-center">
