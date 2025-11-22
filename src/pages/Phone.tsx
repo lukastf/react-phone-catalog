@@ -34,11 +34,19 @@ function Phone() {
   );
 
   const imgRender = () => {
-    switch (imgClicked) {
+    return (
+      <img
+        src={product.imgSrc[imgClicked]}
+        alt={product.imgDescription}
+        className={classImgBig}
+      />
+    );
+
+    /*switch (imgClicked) {
       case 0:
         return (
           <img
-            src={product.imgSrc}
+            src={product.imgSrc[0]}
             alt={product.imgDescription}
             className={classImgBig}
           />
@@ -46,7 +54,7 @@ function Phone() {
       case 1:
         return (
           <img
-            src={product.imgSrc2}
+            src={product.imgSrc[1]}
             alt={product.imgDescription}
             className={classImgBig}
           />
@@ -54,7 +62,7 @@ function Phone() {
       case 2:
         return (
           <img
-            src={product.imgSrc3}
+            src={product.imgSrc[2]}
             alt={product.imgDescription}
             className={classImgBig}
           />
@@ -62,7 +70,7 @@ function Phone() {
       case 3:
         return (
           <img
-            src={product.imgSrc4}
+            src={product.imgSrc[3]}
             alt={product.imgDescription}
             className={classImgBig}
           />
@@ -70,12 +78,12 @@ function Phone() {
       case 4:
         return (
           <img
-            src={product.imgSrc5}
+            src={product.imgSrc[4]}
             alt={product.imgDescription}
             className={classImgBig}
           />
         );
-    }
+    }*/
   };
 
   return (
@@ -90,48 +98,20 @@ function Phone() {
         <h1 className="text-2xl font-bold">{product.name}</h1>
         <div className="flex">
           <div className="flex flex-col p-10">
-            <img
-              onClick={() => setImgClicked(0)}
-              className={
-                imgClicked === 0 ? `${classImg} border` : `${classImg}`
-              }
-              src={product.imgSrc}
-              alt={product.imgDescription}
-            />
-
-            <img
-              onClick={() => setImgClicked(1)}
-              className={
-                imgClicked === 1 ? `${classImg} border` : `${classImg}`
-              }
-              src={product.imgSrc2}
-              alt={product.imgDescription}
-            />
-
-            <img
-              onClick={() => setImgClicked(2)}
-              className={
-                imgClicked === 2 ? `${classImg} border` : `${classImg}`
-              }
-              src={product.imgSrc3}
-              alt={product.imgDescription}
-            />
-            <img
-              onClick={() => setImgClicked(3)}
-              className={
-                imgClicked === 3 ? `${classImg} border` : `${classImg}`
-              }
-              src={product.imgSrc4}
-              alt={product.imgDescription}
-            />
-            <img
-              onClick={() => setImgClicked(4)}
-              className={
-                imgClicked === 4 ? `${classImg} border` : `${classImg}`
-              }
-              src={product.imgSrc5}
-              alt={product.imgDescription}
-            />
+            {
+              // render all thumbnail images from available sources
+              product.imgSrc.map((img, index) => (
+                <img
+                  key={index}
+                  onClick={() => setImgClicked(index)}
+                  className={
+                    imgClicked === index ? `${classImg} border` : `${classImg}`
+                  }
+                  src={img}
+                  alt={product.imgDescription}
+                />
+              ))
+            }
           </div>
           {imgRender()}
         </div>

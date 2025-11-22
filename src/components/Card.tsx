@@ -10,7 +10,7 @@ interface cardProps {
   name: string;
   price: number;
 
-  imgSrc: string;
+  imgSrc: string[];
   imgDescription: string;
   description: string;
 
@@ -46,7 +46,11 @@ const Card = ({
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white">
       <Link to={`/phones/${id}`}>
-        <img className="w-full h-1/2" src={imgSrc} alt={imgDescription} />
+        <img
+          className="w-full h-1/2 object-contain"
+          src={imgSrc[0]}
+          alt={imgDescription}
+        />
 
         {/*<!-- Seção do Conteúdo -->*/}
         <div className="px-6 py-4">
