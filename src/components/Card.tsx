@@ -3,6 +3,7 @@ import { useCart } from "../contexts/UseCart";
 import { useFavorites } from "../contexts/UseFavorites";
 import type { ProductType } from "../interfaces/carrinho";
 import type { ProductFavoriteType } from "../interfaces/favorites";
+import { Link } from "react-router-dom";
 
 interface cardProps {
   id: number;
@@ -44,20 +45,22 @@ const Card = ({
 
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white">
+      <Link to={`/phones/${id}`}>
+        <img className="w-full h-1/2" src={imgSrc} alt={imgDescription} />
+
+        {/*<!-- Seção do Conteúdo -->*/}
+        <div className="px-6 py-4">
+          <h3 className="font-bold text-base mb-2">{name}</h3>
+          <p className="text-gray-700 text-4xl">$ {price}</p>
+        </div>
+
+        <div className="px-6 py-4">
+          <p className="text-gray-700 text-base">Screen {screen}</p>
+          <p className="text-gray-700 text-base">Capacity {capacity}</p>
+          <p className="text-gray-700 text-base">Ram {ram}</p>
+        </div>
+      </Link>
       {/*<!-- Seção da Imagem -->*/}
-      <img className="w-full h-1/2" src={imgSrc} alt={imgDescription} />
-
-      {/*<!-- Seção do Conteúdo -->*/}
-      <div className="px-6 py-4">
-        <h3 className="font-bold text-base mb-2">{name}</h3>
-        <p className="text-gray-700 text-4xl">$ {price}</p>
-      </div>
-
-      <div className="px-6 py-4">
-        <p className="text-gray-700 text-base">Screen {screen}</p>
-        <p className="text-gray-700 text-base">Capacity {capacity}</p>
-        <p className="text-gray-700 text-base">Ram {ram}</p>
-      </div>
 
       {/*<!-- Seção de Ações/Rodapé (Opcional) -->*/}
       <div className="px-6 pt-4 pb-2 flex justify-between">

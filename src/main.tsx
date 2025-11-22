@@ -4,6 +4,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import App from "./App";
 import Home from "./pages/Home";
 import Phones from "./pages/Phones";
+import Phone from "./pages/Phone";
 import Tablets from "./pages/Tablets";
 import Accessories from "./pages/Accessories";
 import Favorites from "./pages/Favorites";
@@ -23,6 +24,7 @@ const router = createBrowserRouter([
       { path: "accessories", element: <Accessories /> },
       { path: "favorites", element: <Favorites /> },
       { path: "cart", element: <Cart /> },
+      { path: "phones/:id", element: <Phone /> },
     ],
   },
 ]);
