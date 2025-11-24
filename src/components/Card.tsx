@@ -17,11 +17,7 @@ interface cardProps {
   screen: string;
   capacity: string;
   ram: string;
-
-  /*imgSrc: string;
-  imgDescription: string;
-  title: string;
-  description: string;*/
+  prefixImg: string;
 }
 
 const Card = ({
@@ -33,6 +29,7 @@ const Card = ({
   screen,
   capacity,
   ram,
+  prefixImg = "",
 }: cardProps) => {
   const { cart, addToCart, removeFromCart } = useCart();
   const { favorites, addToFavorites, removeFromFavorites } = useFavorites();
@@ -48,7 +45,7 @@ const Card = ({
       <Link to={`/phones/${id}`}>
         <img
           className="w-full h-1/2 object-contain"
-          src={imgSrc[0]}
+          src={prefixImg + imgSrc[0]}
           alt={imgDescription}
         />
 

@@ -1,7 +1,6 @@
 import { useParams, useNavigate } from "react-router-dom";
 import type { ProductType } from "../interfaces/carrinho";
-// se você tem um array de produtos, importe-o; caso contrário use contexto ou fetch
-import phones from "../apis/phones.json"; // opcional, ajuste conforme seu projeto
+import phones from "../apis/phones.json";
 import { useCart } from "../contexts/UseCart";
 import { useFavorites } from "../contexts/UseFavorites";
 import type { ProductFavoriteType } from "../interfaces/favorites";
@@ -41,49 +40,6 @@ function Phone() {
         className={classImgBig}
       />
     );
-
-    /*switch (imgClicked) {
-      case 0:
-        return (
-          <img
-            src={product.imgSrc[0]}
-            alt={product.imgDescription}
-            className={classImgBig}
-          />
-        );
-      case 1:
-        return (
-          <img
-            src={product.imgSrc[1]}
-            alt={product.imgDescription}
-            className={classImgBig}
-          />
-        );
-      case 2:
-        return (
-          <img
-            src={product.imgSrc[2]}
-            alt={product.imgDescription}
-            className={classImgBig}
-          />
-        );
-      case 3:
-        return (
-          <img
-            src={product.imgSrc[3]}
-            alt={product.imgDescription}
-            className={classImgBig}
-          />
-        );
-      case 4:
-        return (
-          <img
-            src={product.imgSrc[4]}
-            alt={product.imgDescription}
-            className={classImgBig}
-          />
-        );
-    }*/
   };
 
   return (

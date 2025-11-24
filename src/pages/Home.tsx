@@ -4,18 +4,11 @@ import carouselImg1 from "../assets/carousel/img1.jpg";
 import carouselImg2 from "../assets/carousel/img2.jpg";
 import carouselImg3 from "../assets/carousel/img3.jpg";
 import Card from "../components/Card";
-//import phone1 from "../assets/phones/iphone_7_black.webp";
-//import phone2 from "../assets/phones/iphone_8_gold.webp";
-//import phone3 from "../assets/phones/iphone_11_black.webp";
 import homeNewPhones from "../apis/homeNewPhones.json";
 
 function Home() {
   const SLIDES = [carouselImg1, carouselImg2, carouselImg3];
   const OPTIONS: EmblaOptionsType = { loop: true, slidesToScroll: 1 };
-
-  //mb-14 columns-4 grid grid-cols-24 gap-x-5 md:gap-x-6 md:mb-16 md:columns-12 lg:mb-22 lg:columns-24 relative
-
-  //const dadosArray = homeNewPhones;
 
   return (
     <>
