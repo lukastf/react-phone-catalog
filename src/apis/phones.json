@@ -477,7 +477,7 @@
     "ram": "3GB"
   },
   {
-    "id": 26,
+    "id": 28,
     "name": "Apple iPhone XS Max 256GB Spacegray",
     "price": 1000,
 
@@ -495,7 +495,7 @@
     "ram": "4GB"
   },
   {
-    "id": 27,
+    "id": 29,
     "name": "Apple iPhone XR 64GB Yellow",
     "price": 670,
 
@@ -513,7 +513,7 @@
     "ram": "3GB"
   },
   {
-    "id": 28,
+    "id": 30,
     "name": "Apple iPhone 11 64GB Black",
     "price": 880,
 
@@ -529,5 +529,1616 @@
     "screen": "6.1' IPS",
     "capacity": "64GB",
     "ram": "4GB"
+  },
+  {
+    "id": 31,
+    "name": "Apple iPhone 11 128GB Yellow",
+    "price": 1050,
+
+    "imgSrc": [
+      "iphone_11_yellow/00.webp",
+      "iphone_11_yellow/01.webp",
+      "iphone_11_yellow/02.webp",
+      "iphone_11_yellow/03.webp",
+      "iphone_11_yellow/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 128GB Yellow",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 32,
+    "name": "Apple iPhone 11 256GB Green",
+    "price": 1115,
+
+    "imgSrc": [
+      "iphone_11_green/00.webp",
+      "iphone_11_green/01.webp",
+      "iphone_11_green/02.webp",
+      "iphone_11_green/03.webp",
+      "iphone_11_green/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 256GB Green",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 33,
+    "name": "Apple iPhone 11 Pro 64GB Gold",
+    "price": 1270,
+
+    "imgSrc": [
+      "iphone_11_gold/00.webp",
+      "iphone_11_gold/01.webp",
+      "iphone_11_gold/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 64GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 34,
+    "name": "Apple iPhone 11 Pro 256GB Midnight green",
+    "price": 1570,
+
+    "imgSrc": [
+      "iphone_11_midnight_green/00.webp",
+      "iphone_11_midnight_green/01.webp",
+      "iphone_11_midnight_green/02.webp",
+      "iphone_11_midnight_green/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 256GB Midnight green",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 35,
+    "name": "Apple iPhone 11 Pro 512GB Silver",
+    "price": 1780,
+
+    "imgSrc": [
+      "iphone_11_silver/00.webp",
+      "iphone_11_silver/01.webp",
+      "iphone_11_silver/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 512GB Silver",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "512GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 36,
+    "name": "Apple iPhone 11 Pro Max 64GB Spacegray",
+    "price": 1400,
+
+    "imgSrc": [
+      "iphone_11_space_gray/00.webp",
+      "iphone_11_space_gray/01.webp",
+      "iphone_11_space_gray/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 64GB Spacegray",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 37,
+    "name": "Apple iPhone 11 Pro Max 256GB Gold",
+    "price": 1680,
+
+    "imgSrc": [
+      "iphone_11_gold/00.webp",
+      "iphone_11_gold/01.webp",
+      "iphone_11_gold/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 256GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 38,
+    "name": "Apple iPhone 11 Pro Max 512GB Spacegray",
+    "price": 1930,
+
+    "imgSrc": [
+      "iphone_11_space_gray/00.webp",
+      "iphone_11_space_gray/01.webp",
+      "iphone_11_space_gray/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 512GB Spacegray",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "512GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 39,
+    "name": "Apple iPhone 11 64GB Green",
+    "price": 880,
+
+    "imgSrc": [
+      "iphone_11_green/00.webp",
+      "iphone_11_green/01.webp",
+      "iphone_11_green/02.webp",
+      "iphone_11_green/03.webp",
+      "iphone_11_green/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 64GB Green",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 40,
+    "name": "Apple iPhone 11 128GB Purple",
+    "price": 1050,
+
+    "imgSrc": [
+      "iphone_11_purple/00.webp",
+      "iphone_11_purple/01.webp",
+      "iphone_11_purple/02.webp",
+      "iphone_11_purple/03.webp",
+      "iphone_11_purple/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 128GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 41,
+    "name": "Apple iPhone 11 256GB Yellow",
+    "price": 1115,
+
+    "imgSrc": [
+      "iphone_11_yellow/00.webp",
+      "iphone_11_yellow/01.webp",
+      "iphone_11_yellow/02.webp",
+      "iphone_11_yellow/03.webp",
+      "iphone_11_yellow/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 256GB Yellow",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 42,
+    "name": "Apple iPhone 11 Pro 256GB Gold",
+    "price": 1570,
+
+    "imgSrc": [
+      "iphone_11_gold/00.webp",
+      "iphone_11_gold/01.webp",
+      "iphone_11_gold/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 256GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 43,
+    "name": "Apple iPhone 11 Pro 512GB Spacegray",
+    "price": 1780,
+
+    "imgSrc": [
+      "iphone_11_space_gray/00.webp",
+      "iphone_11_space_gray/01.webp",
+      "iphone_11_space_gray/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 512GB Spacegray",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "512GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 44,
+    "name": "Apple iPhone 11 Pro Max 64GB Silver",
+    "price": 1400,
+
+    "imgSrc": [
+      "iphone_11_silver/00.webp",
+      "iphone_11_silver/01.webp",
+      "iphone_11_silver/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 64GB Silver",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 45,
+    "name": "Apple iPhone 11 Pro Max 256GB Midnightgreen",
+    "price": 1680,
+
+    "imgSrc": [
+      "iphone_11_midnight_green/00.webp",
+      "iphone_11_midnight_green/01.webp",
+      "iphone_11_midnight_green/02.webp",
+      "iphone_11_midnight_green/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 256GB Midnightgreen",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 46,
+    "name": "Apple iPhone 11 Pro Max 512GB Silver",
+    "price": 1930,
+
+    "imgSrc": [
+      "iphone_11_silver/00.webp",
+      "iphone_11_silver/01.webp",
+      "iphone_11_silver/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 512GB Silver",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "512GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 47,
+    "name": "Apple iPhone 11 64GB Purple",
+    "price": 880,
+
+    "imgSrc": [
+      "iphone_11_purple/00.webp",
+      "iphone_11_purple/01.webp",
+      "iphone_11_purple/02.webp",
+      "iphone_11_purple/03.webp",
+      "iphone_11_purple/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 64GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 48,
+    "name": "Apple iPhone 11 64GB Red",
+    "price": 880,
+
+    "imgSrc": [
+      "iphone_11_red/00.webp",
+      "iphone_11_red/01.webp",
+      "iphone_11_red/02.webp",
+      "iphone_11_red/03.webp",
+      "iphone_11_red/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 64GB Red",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 49,
+    "name": "Apple iPhone 11 128GB Black",
+    "price": 1050,
+
+    "imgSrc": [
+      "iphone_11_black/00.webp",
+      "iphone_11_black/01.webp",
+      "iphone_11_black/02.webp",
+      "iphone_11_black/03.webp",
+      "iphone_11_black/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 128GB Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 50,
+    "name": "Apple iPhone 11 256GB Red",
+    "price": 1115,
+
+    "imgSrc": [
+      "iphone_11_red/00.webp",
+      "iphone_11_red/01.webp",
+      "iphone_11_red/02.webp",
+      "iphone_11_red/03.webp",
+      "iphone_11_red/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 256GB Red",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 51,
+    "name": "Apple iPhone 11 Pro 64GB Midnight green",
+    "price": 1270,
+
+    "imgSrc": [
+      "iphone_11_midnight_green/00.webp",
+      "iphone_11_midnight_green/01.webp",
+      "iphone_11_midnight_green/02.webp",
+      "iphone_11_midnight_green/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 64GB Midnight green",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 52,
+    "name": "Apple iPhone 11 Pro 256GB Silver",
+    "price": 1570,
+
+    "imgSrc": [
+      "iphone_11_silver/00.webp",
+      "iphone_11_silver/01.webp",
+      "iphone_11_silver/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 256GB Silver",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 53,
+    "name": "Apple iPhone 11 Pro 512GB Gold",
+    "price": 1780,
+
+    "imgSrc": [
+      "iphone_11_gold/00.webp",
+      "iphone_11_gold/01.webp",
+      "iphone_11_gold/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 512GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "512GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 54,
+    "name": "Apple iPhone 11 Pro Max 64GB Midnightgreen",
+    "price": 1400,
+
+    "imgSrc": [
+      "iphone_11_midnight_green/00.webp",
+      "iphone_11_midnight_green/01.webp",
+      "iphone_11_midnight_green/02.webp",
+      "iphone_11_midnight_green/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 64GB Midnightgreen",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 55,
+    "name": "Apple iPhone 11 Pro Max 256GB Spacegray",
+    "price": 1680,
+
+    "imgSrc": [
+      "iphone_11_space_gray/00.webp",
+      "iphone_11_space_gray/01.webp",
+      "iphone_11_space_gray/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 256GB Spacegray",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 56,
+    "name": "Apple iPhone 11 64GB White",
+    "price": 880,
+
+    "imgSrc": [
+      "iphone_11_white/00.webp",
+      "iphone_11_white/01.webp",
+      "iphone_11_white/02.webp",
+      "iphone_11_white/03.webp",
+      "iphone_11_white/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 64GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 57,
+    "name": "Apple iPhone 11 128GB Green",
+    "price": 1050,
+
+    "imgSrc": [
+      "iphone_11_green/00.webp",
+      "iphone_11_green/01.webp",
+      "iphone_11_green/02.webp",
+      "iphone_11_green/03.webp",
+      "iphone_11_green/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 128GB Green",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 58,
+    "name": "Apple iPhone 11 128GB White",
+    "price": 1050,
+
+    "imgSrc": [
+      "iphone_11_white/00.webp",
+      "iphone_11_white/01.webp",
+      "iphone_11_white/02.webp",
+      "iphone_11_white/03.webp",
+      "iphone_11_white/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 128GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 59,
+    "name": "Apple iPhone 11 256GB Black",
+    "price": 1115,
+
+    "imgSrc": [
+      "iphone_11_black/00.webp",
+      "iphone_11_black/01.webp",
+      "iphone_11_black/02.webp",
+      "iphone_11_black/03.webp",
+      "iphone_11_black/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 256GB Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 60,
+    "name": "Apple iPhone 11 256GB White",
+    "price": 1115,
+
+    "imgSrc": [
+      "iphone_11_white/00.webp",
+      "iphone_11_white/01.webp",
+      "iphone_11_white/02.webp",
+      "iphone_11_white/03.webp",
+      "iphone_11_white/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 256GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 61,
+    "name": "Apple iPhone 11 Pro 64GB Spacegray",
+    "price": 1270,
+
+    "imgSrc": [
+      "iphone_11_space_gray/00.webp",
+      "iphone_11_space_gray/01.webp",
+      "iphone_11_space_gray/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 64GB Spacegray",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 62,
+    "name": "Apple iPhone 11 Pro 512GB Midnight green",
+    "price": 1780,
+
+    "imgSrc": [
+      "iphone_11_midnight_green/00.webp",
+      "iphone_11_midnight_green/01.webp",
+      "iphone_11_midnight_green/02.webp",
+      "iphone_11_midnight_green/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 512GB Midnight green",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "512GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 63,
+    "name": "Apple iPhone 11 Pro Max 64GB Gold",
+    "price": 1400,
+
+    "imgSrc": [
+      "iphone_11_gold/00.webp",
+      "iphone_11_gold/01.webp",
+      "iphone_11_gold/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 64GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 64,
+    "name": "Apple iPhone 11 Pro Max 256GB Silver",
+    "price": 1680,
+
+    "imgSrc": [
+      "iphone_11_silver/00.webp",
+      "iphone_11_silver/01.webp",
+      "iphone_11_silver/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 256GB Silver",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 65,
+    "name": "Apple iPhone 11 Pro Max 512GB Midnightgreen",
+    "price": 1930,
+
+    "imgSrc": [
+      "iphone_11_midnight_green/00.webp",
+      "iphone_11_midnight_green/01.webp",
+      "iphone_11_midnight_green/02.webp",
+      "iphone_11_midnight_green/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 512GB Midnightgreen",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "512GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 66,
+    "name": "Apple iPhone 11 256GB Purple",
+    "price": 1115,
+
+    "imgSrc": [
+      "iphone_11_purple/00.webp",
+      "iphone_11_purple/01.webp",
+      "iphone_11_purple/02.webp",
+      "iphone_11_purple/03.webp",
+      "iphone_11_purple/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 256GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 67,
+    "name": "Apple iPhone 11 Pro Max 512GB Gold",
+    "price": 1930,
+
+    "imgSrc": [
+      "iphone_11_gold/00.webp",
+      "iphone_11_gold/01.webp",
+      "iphone_11_gold/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro Max 512GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.5' OLED",
+    "capacity": "512GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 68,
+    "name": "Apple iPhone 11 64GB Yellow",
+    "price": 880,
+
+    "imgSrc": [
+      "iphone_11_yellow/00.webp",
+      "iphone_11_yellow/01.webp",
+      "iphone_11_yellow/02.webp",
+      "iphone_11_yellow/03.webp",
+      "iphone_11_yellow/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 64GB Yellow",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 69,
+    "name": "Apple iPhone 11 Pro 256GB Spacegray",
+    "price": 1570,
+
+    "imgSrc": [
+      "iphone_11_space_gray/00.webp",
+      "iphone_11_space_gray/01.webp",
+      "iphone_11_space_gray/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 256GB Spacegray",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 70,
+    "name": "Apple iPhone 11 128GB Red",
+    "price": 1050,
+
+    "imgSrc": [
+      "iphone_11_red/00.webp",
+      "iphone_11_red/01.webp",
+      "iphone_11_red/02.webp",
+      "iphone_11_red/03.webp",
+      "iphone_11_red/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 128GB Red",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' IPS",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 71,
+    "name": "Apple iPhone 11 Pro 64GB Silver",
+    "price": 1270,
+
+    "imgSrc": [
+      "iphone_11_silver/00.webp",
+      "iphone_11_silver/01.webp",
+      "iphone_11_silver/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 11 Pro 64GB Silver",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.8' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 72,
+    "name": "Apple iPhone 12 64GB Purple",
+    "price": 740,
+
+    "imgSrc": [
+      "iphone_12_purple/00.webp",
+      "iphone_12_purple/01.webp",
+      "iphone_12_purple/02.webp",
+      "iphone_12_purple/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 64GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 73,
+    "name": "Apple iPhone 12 128GB Purple",
+    "price": 800,
+
+    "imgSrc": [
+      "iphone_12_purple/00.webp",
+      "iphone_12_purple/01.webp",
+      "iphone_12_purple/02.webp",
+      "iphone_12_purple/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 128GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 74,
+    "name": "Apple iPhone 12 256GB Purple",
+    "price": 940,
+
+    "imgSrc": [
+      "iphone_12_purple/00.webp",
+      "iphone_12_purple/01.webp",
+      "iphone_12_purple/02.webp",
+      "iphone_12_purple/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 256GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 75,
+    "name": "Apple iPhone 12 64GB White",
+    "price": 740,
+
+    "imgSrc": [
+      "iphone_12_white/00.webp",
+      "iphone_12_white/01.webp",
+      "iphone_12_white/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 64GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 76,
+    "name": "Apple iPhone 12 128GB White",
+    "price": 800,
+
+    "imgSrc": [
+      "iphone_12_white/00.webp",
+      "iphone_12_white/01.webp",
+      "iphone_12_white/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 128GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 77,
+    "name": "Apple iPhone 12 256GB White",
+    "price": 940,
+
+    "imgSrc": [
+      "iphone_12_white/00.webp",
+      "iphone_12_white/01.webp",
+      "iphone_12_white/02.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 256GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 78,
+    "name": "Apple iPhone 12 64GB Red",
+    "price": 740,
+
+    "imgSrc": [
+      "iphone_12_red/00.webp",
+      "iphone_12_red/01.webp",
+      "iphone_12_red/02.webp",
+      "iphone_12_red/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 64GB Red",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 79,
+    "name": "Apple iPhone 12 128GB Red",
+    "price": 800,
+
+    "imgSrc": [
+      "iphone_12_red/00.webp",
+      "iphone_12_red/01.webp",
+      "iphone_12_red/02.webp",
+      "iphone_12_red/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 128GB Red",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 80,
+    "name": "Apple iPhone 12 256GB Red",
+    "price": 940,
+
+    "imgSrc": [
+      "iphone_12_red/00.webp",
+      "iphone_12_red/01.webp",
+      "iphone_12_red/02.webp",
+      "iphone_12_red/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 256GB Red",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 81,
+    "name": "Apple iPhone 12 64GB Black",
+    "price": 740,
+
+    "imgSrc": [
+      "iphone_12_black/00.webp",
+      "iphone_12_black/01.webp",
+      "iphone_12_black/02.webp",
+      "iphone_12_black/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 64GB Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 82,
+    "name": "Apple iPhone 12 128GB Black",
+    "price": 800,
+
+    "imgSrc": [
+      "iphone_12_black/00.webp",
+      "iphone_12_black/01.webp",
+      "iphone_12_black/02.webp",
+      "iphone_12_black/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 128GB Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 83,
+    "name": "Apple iPhone 12 256GB Black",
+    "price": 940,
+
+    "imgSrc": [
+      "iphone_12_black/00.webp",
+      "iphone_12_black/01.webp",
+      "iphone_12_black/02.webp",
+      "iphone_12_black/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 12 256GB Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 84,
+    "name": "Apple iPhone 13 Mini 64GB Blue",
+    "price": 760,
+
+    "imgSrc": [
+      "iphone_13_mini_blue/00.webp",
+      "iphone_13_mini_blue/01.webp",
+      "iphone_13_mini_blue/02.webp",
+      "iphone_13_mini_blue/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 64GB Blue",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 85,
+    "name": "Apple iPhone 13 Mini 128GB Blue",
+    "price": 820,
+
+    "imgSrc": [
+      "iphone_13_mini_blue/00.webp",
+      "iphone_13_mini_blue/01.webp",
+      "iphone_13_mini_blue/02.webp",
+      "iphone_13_mini_blue/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 128GB Blue",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 86,
+    "name": "Apple iPhone 13 Mini 256GB Blue",
+    "price": 1040,
+
+    "imgSrc": [
+      "iphone_13_mini_blue/00.webp",
+      "iphone_13_mini_blue/01.webp",
+      "iphone_13_mini_blue/02.webp",
+      "iphone_13_mini_blue/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 256GB Blue",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 87,
+    "name": "Apple iPhone 13 Mini 64GB White",
+    "price": 760,
+
+    "imgSrc": [
+      "iphone_13_mini_white/00.webp",
+      "iphone_13_mini_white/01.webp",
+      "iphone_13_mini_white/02.webp",
+      "iphone_13_mini_white/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 64GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 88,
+    "name": "Apple iPhone 13 Mini 128GB White",
+    "price": 820,
+
+    "imgSrc": [
+      "iphone_13_mini_white/00.webp",
+      "iphone_13_mini_white/01.webp",
+      "iphone_13_mini_white/02.webp",
+      "iphone_13_mini_white/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 128GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 89,
+    "name": "Apple iPhone 13 Mini 256GB White",
+    "price": 1040,
+
+    "imgSrc": [
+      "iphone_13_mini_white/00.webp",
+      "iphone_13_mini_white/01.webp",
+      "iphone_13_mini_white/02.webp",
+      "iphone_13_mini_white/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 256GB White",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 90,
+    "name": "Apple iPhone 13 Mini 64GB Pink",
+    "price": 760,
+
+    "imgSrc": [
+      "iphone_13_mini_pink/00.webp",
+      "iphone_13_mini_pink/01.webp",
+      "iphone_13_mini_pink/02.webp",
+      "iphone_13_mini_pink/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 64GB Pink",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 91,
+    "name": "Apple iPhone 13 Mini 128GB Pink",
+    "price": 820,
+
+    "imgSrc": [
+      "iphone_13_mini_pink/00.webp",
+      "iphone_13_mini_pink/01.webp",
+      "iphone_13_mini_pink/02.webp",
+      "iphone_13_mini_pink/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 128GB Pink",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 92,
+    "name": "Apple iPhone 13 Mini 256GB Pink",
+    "price": 1040,
+
+    "imgSrc": [
+      "iphone_13_mini_pink/00.webp",
+      "iphone_13_mini_pink/01.webp",
+      "iphone_13_mini_pink/02.webp",
+      "iphone_13_mini_pink/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 256GB Pink",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 93,
+    "name": "Apple iPhone 13 Mini 64GB Midnight",
+    "price": 760,
+
+    "imgSrc": [
+      "iphone_13_mini_midnight/00.webp",
+      "iphone_13_mini_midnight/01.webp",
+      "iphone_13_mini_midnight/02.webp",
+      "iphone_13_mini_midnight/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 64GB Midnight",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "64GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 94,
+    "name": "Apple iPhone 13 Mini 128GB Midnight",
+    "price": 820,
+
+    "imgSrc": [
+      "iphone_13_mini_midnight/00.webp",
+      "iphone_13_mini_midnight/01.webp",
+      "iphone_13_mini_midnight/02.webp",
+      "iphone_13_mini_midnight/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 128GB Midnight",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 95,
+    "name": "Apple iPhone 13 Mini 256GB Midnight",
+    "price": 1040,
+
+    "imgSrc": [
+      "iphone_13_mini_midnight/00.webp",
+      "iphone_13_mini_midnight/01.webp",
+      "iphone_13_mini_midnight/02.webp",
+      "iphone_13_mini_midnight/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Mini 256GB Midnight",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "5.4' Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "4GB"
+  },
+  {
+    "id": 96,
+    "name": "Apple iPhone 14 128GB Midnight",
+    "price": 980,
+
+    "imgSrc": [
+      "iphone_14_midnight/00.webp",
+      "iphone_14_midnight/01.webp",
+      "iphone_14_midnight/02.webp",
+      "iphone_14_midnight/03.webp",
+      "iphone_14_midnight/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 128GB Midnight",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 97,
+    "name": "Apple iPhone 14 256GB Midnight",
+    "price": 1120,
+
+    "imgSrc": [
+      "iphone_14_midnight/00.webp",
+      "iphone_14_midnight/01.webp",
+      "iphone_14_midnight/02.webp",
+      "iphone_14_midnight/03.webp",
+      "iphone_14_midnight/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 256GB Midnight",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 98,
+    "name": "Apple iPhone 14 512GB Midnight",
+    "price": 1420,
+
+    "imgSrc": [
+      "iphone_14_midnight/00.webp",
+      "iphone_14_midnight/01.webp",
+      "iphone_14_midnight/02.webp",
+      "iphone_14_midnight/03.webp",
+      "iphone_14_midnight/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 512GB Midnight",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "512GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 99,
+    "name": "Apple iPhone 14 128GB Yellow",
+    "price": 980,
+
+    "imgSrc": [
+      "iphone_14_yellow/00.webp",
+      "iphone_14_yellow/01.webp",
+      "iphone_14_yellow/02.webp",
+      "iphone_14_yellow/03.webp",
+      "iphone_14_yellow/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 128GB Yellow",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 100,
+    "name": "Apple iPhone 14 256GB Yellow",
+    "price": 1120,
+
+    "imgSrc": [
+      "iphone_14_yellow/00.webp",
+      "iphone_14_yellow/01.webp",
+      "iphone_14_yellow/02.webp",
+      "iphone_14_yellow/03.webp",
+      "iphone_14_yellow/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 256GB Yellow",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 101,
+    "name": "Apple iPhone 14 512GB Yellow",
+    "price": 1420,
+
+    "imgSrc": [
+      "iphone_14_yellow/00.webp",
+      "iphone_14_yellow/01.webp",
+      "iphone_14_yellow/02.webp",
+      "iphone_14_yellow/03.webp",
+      "iphone_14_yellow/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 512GB Yellow",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "512GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 102,
+    "name": "Apple iPhone 14 128GB Purple",
+    "price": 980,
+
+    "imgSrc": [
+      "iphone_14_purple/00.webp",
+      "iphone_14_purple/01.webp",
+      "iphone_14_purple/02.webp",
+      "iphone_14_purple/03.webp",
+      "iphone_14_purple/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 128GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 103,
+    "name": "Apple iPhone 14 256GB Purple",
+    "price": 1120,
+
+    "imgSrc": [
+      "iphone_14_purple/00.webp",
+      "iphone_14_purple/01.webp",
+      "iphone_14_purple/02.webp",
+      "iphone_14_purple/03.webp",
+      "iphone_14_purple/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 256GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 104,
+    "name": "Apple iPhone 14 512GB Purple",
+    "price": 1420,
+
+    "imgSrc": [
+      "iphone_14_purple/00.webp",
+      "iphone_14_purple/01.webp",
+      "iphone_14_purple/02.webp",
+      "iphone_14_purple/03.webp",
+      "iphone_14_purple/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 512GB Purple",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "512GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 105,
+    "name": "Apple iPhone 14 Pro 128GB Space Black",
+    "price": 1068,
+
+    "imgSrc": [
+      "iphone_14_space_black/00.webp",
+      "iphone_14_space_black/01.webp",
+      "iphone_14_space_black/02.webp",
+      "iphone_14_space_black/03.webp",
+      "iphone_14_space_black/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 Pro 128GB Space Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 106,
+    "name": "Apple iPhone 14 Pro 256GB Space Black",
+    "price": 1220,
+
+    "imgSrc": [
+      "iphone_14_space_black/00.webp",
+      "iphone_14_space_black/01.webp",
+      "iphone_14_space_black/02.webp",
+      "iphone_14_space_black/03.webp",
+      "iphone_14_space_black/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 Pro 256GB Space Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 107,
+    "name": "Apple iPhone 14 Pro 512GB Space Black",
+    "price": 1530,
+
+    "imgSrc": [
+      "iphone_14_space_black/00.webp",
+      "iphone_14_space_black/01.webp",
+      "iphone_14_space_black/02.webp",
+      "iphone_14_space_black/03.webp",
+      "iphone_14_space_black/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 Pro 512GB Space Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "512GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 108,
+    "name": "Apple iPhone 14 Pro 1TB Space Black",
+    "price": 1700,
+
+    "imgSrc": [
+      "iphone_14_space_black/00.webp",
+      "iphone_14_space_black/01.webp",
+      "iphone_14_space_black/02.webp",
+      "iphone_14_space_black/03.webp",
+      "iphone_14_space_black/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 Pro 1TB Space Black",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "1TB",
+    "ram": "6GB"
+  },
+  {
+    "id": 109,
+    "name": "Apple iPhone 13 Pro Max 128GB Sierra Blue",
+    "price": 1068,
+
+    "imgSrc": [
+      "iphone_13_sierra_blue/00.webp",
+      "iphone_13_sierra_blue/01.webp",
+      "iphone_13_sierra_blue/02.webp",
+      "iphone_13_sierra_blue/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 128GB Sierra Blue",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 110,
+    "name": "Apple iPhone 13 Pro Max 256GB Sierra Blue",
+    "price": 1220,
+
+    "imgSrc": [
+      "iphone_13_sierra_blue/00.webp",
+      "iphone_13_sierra_blue/01.webp",
+      "iphone_13_sierra_blue/02.webp",
+      "iphone_13_sierra_blue/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 256GB Sierra Blue",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 111,
+    "name": "Apple iPhone 13 Pro Max 512GB Sierra Blue",
+    "price": 1530,
+
+    "imgSrc": [
+      "iphone_13_sierra_blue/00.webp",
+      "iphone_13_sierra_blue/01.webp",
+      "iphone_13_sierra_blue/02.webp",
+      "iphone_13_sierra_blue/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 512GB Sierra Blue",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "512GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 112,
+    "name": "Apple iPhone 13 Pro Max 1TB Sierra Blue",
+    "price": 1700,
+
+    "imgSrc": [
+      "iphone_13_sierra_blue/00.webp",
+      "iphone_13_sierra_blue/01.webp",
+      "iphone_13_sierra_blue/02.webp",
+      "iphone_13_sierra_blue/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 1TB Sierra Blue",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "1TB",
+    "ram": "6GB"
+  },
+  {
+    "id": 113,
+    "name": "Apple iPhone 13 Pro Max 128GB Gold",
+    "price": 1068,
+
+    "imgSrc": [
+      "iphone_13_gold/00.webp",
+      "iphone_13_gold/01.webp",
+      "iphone_13_gold/02.webp",
+      "iphone_13_gold/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 128GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 114,
+    "name": "Apple iPhone 13 Pro Max 256GB Gold",
+    "price": 1220,
+
+    "imgSrc": [
+      "iphone_13_gold/00.webp",
+      "iphone_13_gold/01.webp",
+      "iphone_13_gold/02.webp",
+      "iphone_13_gold/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 256GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 115,
+    "name": "Apple iPhone 13 Pro Max 512GB Gold",
+    "price": 1530,
+
+    "imgSrc": [
+      "iphone_13_gold/00.webp",
+      "iphone_13_gold/01.webp",
+      "iphone_13_gold/02.webp",
+      "iphone_13_gold/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 512GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "512GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 116,
+    "name": "Apple iPhone 13 Pro Max 1TB Gold",
+    "price": 1700,
+
+    "imgSrc": [
+      "iphone_13_gold/00.webp",
+      "iphone_13_gold/01.webp",
+      "iphone_13_gold/02.webp",
+      "iphone_13_gold/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 1TB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "1TB",
+    "ram": "6GB"
+  },
+  {
+    "id": 117,
+    "name": "Apple iPhone 13 Pro Max 128GB Graphite",
+    "price": 1068,
+
+    "imgSrc": [
+      "iphone_13_graphite/00.webp",
+      "iphone_13_graphite/01.webp",
+      "iphone_13_graphite/02.webp",
+      "iphone_13_graphite/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 128GB Graphite",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 118,
+    "name": "Apple iPhone 13 Pro Max 256GB Graphite",
+    "price": 1220,
+
+    "imgSrc": [
+      "iphone_13_graphite/00.webp",
+      "iphone_13_graphite/01.webp",
+      "iphone_13_graphite/02.webp",
+      "iphone_13_graphite/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 256GB Graphite",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 119,
+    "name": "Apple iPhone 13 Pro Max 512GB Graphite",
+    "price": 1530,
+
+    "imgSrc": [
+      "iphone_13_graphite/00.webp",
+      "iphone_13_graphite/01.webp",
+      "iphone_13_graphite/02.webp",
+      "iphone_13_graphite/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 512GB Graphite",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "512GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 120,
+    "name": "Apple iPhone 13 Pro Max 1TB Graphite",
+    "price": 1700,
+
+    "imgSrc": [
+      "iphone_13_graphite/00.webp",
+      "iphone_13_graphite/01.webp",
+      "iphone_13_graphite/02.webp",
+      "iphone_13_graphite/03.webp"
+    ],
+    "imgDescription": "Apple iPhone 13 Pro Max 1TB Graphite",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.7' Super Retina XDR",
+    "capacity": "1TB",
+    "ram": "6GB"
+  },
+  {
+    "id": 121,
+    "name": "Apple iPhone 14 Pro 128GB Gold",
+    "price": 1068,
+
+    "imgSrc": [
+      "iphone_14_gold/00.webp",
+      "iphone_14_gold/01.webp",
+      "iphone_14_gold/02.webp",
+      "iphone_14_gold/03.webp",
+      "iphone_14_gold/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 Pro 128GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "128GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 122,
+    "name": "Apple iPhone 14 Pro 256GB Gold",
+    "price": 1220,
+
+    "imgSrc": [
+      "iphone_14_gold/00.webp",
+      "iphone_14_gold/01.webp",
+      "iphone_14_gold/02.webp",
+      "iphone_14_gold/03.webp",
+      "iphone_14_gold/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 Pro 256GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "256GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 123,
+    "name": "Apple iPhone 14 Pro 512GB Gold",
+    "price": 1530,
+
+    "imgSrc": [
+      "iphone_14_gold/00.webp",
+      "iphone_14_gold/01.webp",
+      "iphone_14_gold/02.webp",
+      "iphone_14_gold/03.webp",
+      "iphone_14_gold/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 Pro 512GB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "512GB",
+    "ram": "6GB"
+  },
+  {
+    "id": 124,
+    "name": "Apple iPhone 14 Pro 1TB Gold",
+    "price": 1700,
+
+    "imgSrc": [
+      "iphone_14_gold/00.webp",
+      "iphone_14_gold/01.webp",
+      "iphone_14_gold/02.webp",
+      "iphone_14_gold/03.webp",
+      "iphone_14_gold/04.webp"
+    ],
+    "imgDescription": "Apple iPhone 14 Pro 1TB Gold",
+    "description": "ksajsajkd jsdajksadjksdadsa sakjdsdakjdsakdskaj sdkjndskjnsdanksdank skajnsjdkasandskadj sakdjnsadnksadkn sadkjsadkjndsan sadnksadjsadnsda sadknksdajksadjjsad askjlsdajsakdjsda asdkjndsajkndsajksad sdajkdsansadnksadkksadnnsad sdajklnsadknsdakjsad n sad sasjadnkdskadjds aksdankjksadnsdkajnkjsads ksadnjksadnkjnsadknsadskadjnsadnksadkj",
+    "screen": "6.1' OLED Super Retina XDR",
+    "capacity": "1TB",
+    "ram": "6GB"
   }
 ]
