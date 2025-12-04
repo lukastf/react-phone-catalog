@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect } from "react";
 import phones from "../apis/phones.json";
 import Card from "../components/Card";
 
@@ -41,6 +41,11 @@ function Phones() {
         return list;
     }
   }, [sort]);
+
+  // Reset to first page when changing items per page or sort
+  useEffect(() => {
+    setCurrentPage(1);
+  }, [itemsPerPage, sort]);
 
   const totalPages = Math.max(1, Math.ceil(sortedPhones.length / itemsPerPage));
 
@@ -99,16 +104,15 @@ function Phones() {
             <span className="text-sm">Ordenar:</span>
             <select
               value={sort}
-              onChange={(e) => {
+              onChange={(e) =>
                 setSort(
                   e.target.value as
                     | "default"
                     | "price-asc"
                     | "price-desc"
                     | "alpha"
-                );
-                setCurrentPage(1); // reset aqui — não em efeito
-              }}
+                )
+              }
               className="border rounded px-2 py-1 text-sm"
             >
               <option value="default">Padrão</option>
@@ -122,10 +126,7 @@ function Phones() {
             <span className="text-sm">Por página:</span>
             <select
               value={itemsPerPage}
-              onChange={(e) => {
-                setItemsPerPage(parseInt(e.target.value, 10));
-                setCurrentPage(1); // reset aqui — não em efeito
-              }}
+              onChange={(e) => setItemsPerPage(parseInt(e.target.value, 10))}
               className="border rounded px-2 py-1 text-sm"
             >
               <option value={4}>4</option>
